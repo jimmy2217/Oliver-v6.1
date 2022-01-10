@@ -11,7 +11,7 @@ Key upgrades from previous version:
 - USB2.0 high speed communication
 - Utilizing RoboDK for teaching and IK solving
 
-Skill aquired from v6.1:
+Skill acquired from v6.1:
 - CAD to CAM workflow
 - CNC machining 
 - Advanced multi-threading process (python)
