@@ -11,7 +11,20 @@ Key upgrades from previous version:
 - USB2.0 high speed communication
 - Utilizing RoboDK for teaching and IK solving
 
+Skill aquired from v6.1:
+- CAD to CAM workflow
+- CNC machining 
+- Advanced multi-threading process (python)
+- High speed passthrough position and velocity control
+- True linear end effector trajectory (work in progress)
+- Online target teaching
+
 # Motors
-Sensorless hobby BLDC motors
+Sensorless high torque hobby BLDC motors
 
 ![image](https://user-images.githubusercontent.com/55325587/148709207-4519504b-9112-4e30-9131-a9ad66d03018.png)
+
+High resolution incremental encoders
+
+![image](https://user-images.githubusercontent.com/55325587/148709379-b271030a-42a1-4138-82f8-86fd686f3972.png)
+
