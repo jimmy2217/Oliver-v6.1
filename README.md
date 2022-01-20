@@ -1,5 +1,5 @@
 # Oliver-v6.1 - 6 DOF Articulated Robot
-Purpose of this robot is to create a medium payload high accuracy, high torque articulated robot arm from scratch to aquire new skills further cement complex kinematics control.
+Purpose of this robot is to create a medium payload high accuracy, high torque articulated robot arm from scratch to aquire new skills and further cement complex kinematics control.
 
 Key upgrades from previous version:
 - BLDC high torque motors
