@@ -31,6 +31,8 @@ High resolution incremental encoders
 High power motor driver (ODrive)
 
 ![image](https://user-images.githubusercontent.com/55325587/148717887-0c697da7-bf38-4aa0-9fd9-8686e6d9d934.png)
+![image](https://user-images.githubusercontent.com/55325587/169353649-9c1614d5-63af-4cfd-b78c-836d8930e7fa.png)
+
 
 # CAD design
 ![image](https://user-images.githubusercontent.com/55325587/148711787-d9e50060-dc86-4460-9cda-001b346d3020.png)
